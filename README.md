@@ -15,7 +15,7 @@ I'm a passionate computer scientist with a love for building innovative solution
   🌱 Exploring <strong>cloud technologies</strong> and <strong>in-depth linux systems</strong><br/>
   👯 Open to collaborating on <strong>open source projects</strong><br/>
   💬 Ask me about <strong>full-stack development</strong>, <strong>system design</strong>, or <strong>tech in Kenya</strong><br/>  
-  <div align="left">
+  <div align="center">
     <a href="mailto:floydqaranja@gmail.com"  target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
     <a href="https://www.linkedin.com/in/floyd-karanja-413788a9/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
     <a href="https://www.hackerrank.com/profile/floydqaranja" target="_blank"> <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
