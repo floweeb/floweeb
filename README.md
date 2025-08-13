@@ -51,6 +51,10 @@
 
 <br clear="both">
 <div align="center">
+💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/floweeb/floweeb/output/snake.svg" alt="Snake Animation" />
 </div>
 <div align="center">
