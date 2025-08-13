@@ -50,6 +50,18 @@
 ###
 
 <br clear="both">
+
+🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=floweeb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=floweeb&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+###
 <div align="center">
 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.
