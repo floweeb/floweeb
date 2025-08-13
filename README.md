@@ -1,6 +1,6 @@
 <h2>Hi there! 👋 I'm Floyd Karanja</h2>
 <div align="center">
-<strong>Computer Scientist</strong> | <strong>Full-Stack Developer</strong> | <strong>Open Source Enthusiast</strong>
+<strong>Computer Scientist</strong> | <strong>Full-Stack Developer</strong> | <strong>Open Source Enthusiast</strong> <br/>
 From the beautiful countryside of Kenya 🇰🇪
 </div>
 
