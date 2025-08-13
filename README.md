@@ -22,6 +22,7 @@ I'm a passionate computer scientist with a love for building innovative solution
   </div>
   ⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
 </div>
+
 ###
 📊 GitHub Analytics
 <div align="center">
