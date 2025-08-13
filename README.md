@@ -1,54 +1,13 @@
-<h2 align="left">Hi 👋! My name is Floyd aka Floweeb and I'm a computer scientist from the country sides of Kenya 🤓</h2>
-
-###
-
+<h2>Hi there! 👋 I'm Floyd Karanja</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/floweeb/count.svg?"  />
+<strong>Computer Scientist</strong> | <strong>Full-Stack Developer</strong> | <strong>Open Source Enthusiast</strong>
+From the beautiful countryside of Kenya 🇰🇪
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=floweeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floweeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/38s4u1.png"  />
 
 ###
-
-
-###
-
-<br clear="both">
-
-###
-
-
 🚀 About Me <br/>
 I'm a passionate computer scientist with a love for building innovative solutions and exploring new technologies. When I'm not coding, you'll find me contributing to open source projects or learning about the latest tech trends.
 <div align="left">
