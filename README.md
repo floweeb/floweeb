@@ -70,8 +70,6 @@ Databases & Cloud
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" title="AWS" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
 </div>
 Tools & Others
