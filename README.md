@@ -62,6 +62,16 @@ I'm a passionate computer scientist with a love for building innovative solution
 💬 Ask me about full-stack development, system design, or tech in Kenya
 ⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
 
+🚀 About Me <br/>
+I'm a passionate computer scientist with a love for building innovative solutions and exploring new technologies. When I'm not coding, you'll find me contributing to open source projects or learning about the latest tech trends.
+<div align="left">
+  🔭 Currently working on <strong>property management systems</strong> and <strong>web applications</strong><br/>
+  🌱 Exploring <strong>cloud technologies</strong> and <strong>in-depth linux systems</strong><br/>
+  👯 Open to collaborating on <strong>open source projects</strong><br/>
+  💬 Ask me about <strong>full-stack development</strong>, <strong>system design</strong>, or <strong>tech in Kenya</strong><br/>
+  ⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
+</div>
+
 
 📊 GitHub Analytics
 <div align="center">
