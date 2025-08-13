@@ -41,11 +41,6 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:floydqaranja@gmail.com"  target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-  <a href="https://www.linkedin.com/in/floyd-karanja-413788a9/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-  <a href="https://www.hackerrank.com/profile/floydqaranja" target="_blank"> <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
-</div>
 
 ###
 
@@ -53,14 +48,6 @@
 
 ###
 
-🚀 About Me
-I'm a passionate computer scientist with a love for building innovative solutions and exploring new technologies. When I'm not coding, you'll find me contributing to open source projects or learning about the latest tech trends.
-
-🔭 Currently working on property management systems and web applications
-🌱 Exploring cloud technologies and indepth linux systems
-👯 Open to collaborating on open source projects
-💬 Ask me about full-stack development, system design, or tech in Kenya
-⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
 
 🚀 About Me <br/>
 I'm a passionate computer scientist with a love for building innovative solutions and exploring new technologies. When I'm not coding, you'll find me contributing to open source projects or learning about the latest tech trends.
@@ -68,11 +55,15 @@ I'm a passionate computer scientist with a love for building innovative solution
   🔭 Currently working on <strong>property management systems</strong> and <strong>web applications</strong><br/>
   🌱 Exploring <strong>cloud technologies</strong> and <strong>in-depth linux systems</strong><br/>
   👯 Open to collaborating on <strong>open source projects</strong><br/>
-  💬 Ask me about <strong>full-stack development</strong>, <strong>system design</strong>, or <strong>tech in Kenya</strong><br/>
+  💬 Ask me about <strong>full-stack development</strong>, <strong>system design</strong>, or <strong>tech in Kenya</strong><br/>  
+  <div align="left">
+    <a href="mailto:floydqaranja@gmail.com"  target="_blank"><img src="https://img.shields.io/static/v1?          message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+    <a href="https://www.linkedin.com/in/floyd-karanja-413788a9/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+    <a href="https://www.hackerrank.com/profile/floydqaranja" target="_blank"> <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /> </a>
+  </div>
   ⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
 </div>
-
-
+###
 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=floweeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
